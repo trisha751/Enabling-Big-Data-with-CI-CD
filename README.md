@@ -69,4 +69,4 @@ We are looking for a tool that would enable support of our existing tool chain, 
 <img src="Images/BPMN.png" width="700">
 
 ## Project Schedule and Timeline (Roadmap) 
-<img src="Images/Roadmap%20for%20HealthCare%20Insurance%20.png" width="700">
+<img src="Images/Roadmap%20for%20HealthCare%20Insurance%20%20.png" width="1000">

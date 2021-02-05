@@ -9,7 +9,7 @@ This insurance company has Big Data computational requirements for actuarial des
 
 We are looking for a tool that would enable support of our existing tool chain, and customized cloud environment - Chef and VMware with a custom-built distro (distribution - deployment of software - is nearly always used in a Linux context.), while providing strong custom workflows to support the variety of tooling.
 
-## BPMN
+## Business Process Model and Notation (BPMN)
 <img src="Images/Business%20Process%20Model%20II.png" width="700">
 
 ## Technical Aspects
@@ -62,7 +62,7 @@ We are looking for a tool that would enable support of our existing tool chain, 
 ## Gap Analysis
 <img src="Images/Gap%20Analysis.png" width="700">
 
-## Stakeholder Analysis
+## Stakeholder Analysis (Onion Diagram)
 <img src="Images/Onion%20Diagram%20trans.png" width="700">
 
 ## Solution Evaluation

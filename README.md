@@ -42,5 +42,9 @@ We are looking for a tool that would enable support of our existing tool chain, 
 - New Hardware implementation
 - Customer Support (Engagement)
 
+## Gap Analysis
+<img src="Images/Gap%20Analysis.png" width="700">
+
 ## Stakeholder Analysis
-![stakeholders](Images/Onion%20Diagram%20trans.png)
+<img src="Images/Onion%20Diagram%20trans.png" width="700">
+
